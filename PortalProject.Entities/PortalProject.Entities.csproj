@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PortalProject.Core\PortalProject.Core.csproj" />
+    <ProjectReference Include="..\PortalProject.Identity\PortalProject.Identity.csproj" />
   </ItemGroup>
 
 </Project>

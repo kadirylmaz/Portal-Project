@@ -1,9 +1,8 @@
-﻿using PortalProject.Core.Entities;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PortalProject.Entities.Concrete
+namespace PortalProject.Core.Entities
 {
     public abstract class BaseEntity:IEntity
     {

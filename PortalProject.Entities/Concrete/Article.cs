@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PortalProject.Core.Entities;
+using System;
 using System.Collections.Generic;
 using System.Text;
 

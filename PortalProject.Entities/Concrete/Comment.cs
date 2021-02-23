@@ -1,4 +1,6 @@
-﻿using PortalProject.Entities.Common;
+﻿using PortalProject.Core.Entities;
+using PortalProject.Entities.Common;
+using PortalProject.Identity.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
